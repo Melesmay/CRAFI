@@ -1,2 +1,2 @@
-## Triggering Generative Collapse: A Contrastive Inversion Framework for AI-Generated Image Detection
-Our codes will be avaliable after our paper has been accepted.
+## Towards Generalizable AI-Generated Image Detection via Contrastive Diffusion Inversion
+Our codes will coming soon!
